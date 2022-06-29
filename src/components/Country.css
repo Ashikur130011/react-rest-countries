@@ -1,0 +1,10 @@
+.country{
+    background-color: aliceblue;
+    border: 2px solid red;
+    border-radius: 20px;
+    padding-bottom: 15px;
+}
+.country img{
+    width: 200px;
+    height: 150px;
+}
